@@ -1,0 +1,17 @@
+body {
+  width: 100%; /* Make sure the body takes the full width */
+  height: 100%; /* Make sure the body takes the full height */
+  overflow: auto; /* Allow scrolling if content overflows */
+  margin: 0; /* Remove default margin */
+  padding: 0; /* Remove default padding */
+  box-sizing: border-box; /* Ensure padding and border are included in the width */
+}
+
+#app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%; /* Make sure the #app takes the full width of the body */
+  height: 100%; /* Make sure the #app takes the full height of the body */
+}

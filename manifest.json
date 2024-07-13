@@ -1,0 +1,19 @@
+{
+    "manifest_version": 3,
+    "name": "Todo Extension",
+    "version": "1.0",
+    "description": "A Chrome extension for managing your to-do list",
+    "action": {
+        "default_popup": "popup.html","default_size": {
+      "width": 960,   
+      "height": 1080 
+    }
+    },
+    "permissions": [
+        "storage",
+        "activeTab"
+    ],
+    "background": {
+        "service_worker": "background.js"
+    }
+}
