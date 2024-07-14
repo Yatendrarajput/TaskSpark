@@ -25,9 +25,14 @@ TaskSpark is a sleek and efficient Chrome extension designed to streamline your 
 
 Here are some screenshots of TaskSpark in action:
 
+
 ![Screenshot 1](https://drive.google.com/uc?id=1Pkn5gutJezUH4gVVL-Wctk7V86lxEbP_)
+
+## Toggle Complete
 ![Screenshot 2](https://drive.google.com/uc?id=1kGWe9Mf4cPomnSWrLAGZmwHNVxX6umQD)
 
+## Edit or Update
+![Screenshot 3](https://drive.google.com/uc?id=1WqVFMYy08VUR6R9Rau6lPK0ovv3c_cZX)
 
 ## Installation
 
